@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Display the content of the /etc/passwd file.'
+git commit -m 'Display the content of the /etc/passwd and /etc/host file.'
 git push
