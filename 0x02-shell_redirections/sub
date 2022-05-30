@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'view a particular line in text file'
+git commit -m 'append the output of a ls command to text file'
 git push
