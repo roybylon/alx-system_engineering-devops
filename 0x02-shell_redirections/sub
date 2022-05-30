@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Display the first 10 lines of /etc/passwd'
+git commit -m 'view a particular line in text file'
 git push
