@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'updated script'
+git commit -m 'add a script that lists all local variables and environment variables, and functions'
 git push
