@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'add a script that that performs some basic shell arithmetics'
+git commit -m 'add a script that contain some advance taskss'
 git push
